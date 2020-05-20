@@ -1,0 +1,17 @@
+html, body {
+    height: 99%;
+    margin: 0;
+}
+body {
+    background: black;
+    display: block;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+}
+canvas {
+    border: 1px solid white;
+}
+p {
+    color: white;
+}
